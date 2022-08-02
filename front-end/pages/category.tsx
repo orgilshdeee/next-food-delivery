@@ -1,11 +1,11 @@
 import * as React from "react";
 import Button from "@mui/material/Button";
+import CategoryTable from "./components/category.table";
 
 const category = () => {
   return (
     <div>
-      <h1>All categories page</h1>
-      <Button variant="contained">Towch</Button>
+      <CategoryTable />
     </div>
   );
 };
