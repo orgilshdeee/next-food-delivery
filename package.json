@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/orgilshdeee/next-food-delivery/issues"
   },
-  "homepage": "https://github.com/orgilshdeee/next-food-delivery#readme"
+  "homepage": "https://github.com/orgilshdeee/next-food-delivery#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
 }
